@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.13.0",
+    "apollo-server-express": "^2.14.2",
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
     "cloudinary": "^1.23.0",
